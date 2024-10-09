@@ -1,0 +1,4 @@
+site_name: YCNCC Technical Documentation
+site_url: https://yalecncc.github.io/
+theme:
+  name: material
