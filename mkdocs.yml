@@ -1,4 +1,8 @@
 site_name: YCNCC Technical Documentation
-site_url: ''
+site_url: https://YaleCNCC.github.io/
 theme:
   name: material
+
+# Repository
+repo_name: YaleCNCC/YaleCNCC.github.io
+repo_url: https://github.com/YaleCNCC/YaleCNCC.github.io
