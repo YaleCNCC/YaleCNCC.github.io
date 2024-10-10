@@ -13,3 +13,13 @@ Activate the environment:
 ```bash
 source venv/bin/activate
 ```
+
+Preview your site on local server
+```bash
+mkddocs serve
+```
+
+Merge results when satisfied
+```bash
+git push
+```
