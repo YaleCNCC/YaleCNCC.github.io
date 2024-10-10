@@ -59,5 +59,11 @@ plugins:
   - search
   - tags
 
+markdown_extensions:
+    - admonition
+
+
 nav:
   - Home: index.md
+  - Version Control:
+    - Git and GitHub: version-control/git-and-github.md
