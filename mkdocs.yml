@@ -60,8 +60,7 @@ plugins:
   - tags
 
 markdown_extensions:
-    - admonition
-
+    - admonition # see: https://squidfunk.github.io/mkdocs-material/reference/admonitions/
 
 nav:
   - Home: index.md
